@@ -113,12 +113,12 @@ const SigninForm = () => {
           </p>
 
           <h5>Demo Login Credentials</h5>
-          <p className="text-small-regular text-light-2 text-center mt-2">
-            Don&apos;t have an account?
-            Email: demouser@gmail.com
+          <pre className="text-small-regular text-light-2 text-center mt-2">
+            
+          Email: demouser@gmail.com
             <br />
             Password: demouser
-          </p>
+          </pre>
         </form>
       </div>
     </Form>
