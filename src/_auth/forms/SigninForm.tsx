@@ -111,6 +111,14 @@ const SigninForm = () => {
               Sign up
             </Link>
           </p>
+
+          <pre className="text-small-regular text-light-2 text-center mt-2">
+            
+          <h5>Demo Login Credentials</h5>
+          Email: demouser@gmail.com
+            <br />
+            Password: demouser
+          </pre>
         </form>
       </div>
     </Form>
